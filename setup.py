@@ -39,6 +39,10 @@ setup(
         "Topic :: Scientific/Engineering",
         ],
     install_requires=[
+        "numpy>=1.13.3",
+        "scipy>=1.0.0",
+        "pandas>=0.21.0",
+        "numdifftools>=0.9.20"
     ],
     package_data={
         "bevel": [
