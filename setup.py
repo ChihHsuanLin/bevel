@@ -20,7 +20,7 @@ except(ImportError):
 
 setup(
     name="bevel",
-    version=__version__,
+    version="0.1.1",
     author="Ross Diener, Steven Wu, Cameron Davidson-Pilon",
     author_email="ross.diener@shopify.com",
     description="Ordinal regression in Python",
